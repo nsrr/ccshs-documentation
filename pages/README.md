@@ -6,26 +6,18 @@ The Cleveland Children's Sleep and Health Study (CCSHS) is one of the largest p
 
 When citing this dataset please use:
 
-1. Redline, S., et al. "Sleep Heart Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/shhs.
+1. Redline, S., et al. "Cleveland Children's Sleep and Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/ccshs.
 
 ## Dataset Download
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 1 MB
 
-Read more in the [Dataset Introduction](:pages_path:/3-dataset-introduction.md).
+Read more in the [Dataset Introduction](:pages_path:/dataset-introduction.md).
 
 ## Protocols and Manuals
 
--
-
-## Equipment
-
--
+- [CCSHS TREC Visit PSG Lab Visit Manual](:files_path:/documentation/CCSHS_TREC_Visit_PSG_Lab_Visit_Manual.pdf)
 
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Publication Links
-
--
