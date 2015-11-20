@@ -28,7 +28,7 @@ Limitations to the application of SpectralTrainFig to data include inherent chal
 
 ## Dataset Structure
 
-[Two result datasets](:files_path:/datasets) have been posted for EEG spectral analysis.
+[Two result datasets](:files_path:/datasets/eeg-spectral-analysis) have been posted for EEG spectral analysis.
 
 - Datasets are keyed on `OBF_PPTID` and `signal`, e.g. Participant ID 123 and Signal C3.
 - The `spectral-summary` dataset includes power density summarized in different frequency bins, broken down by NREM and REM sleep
