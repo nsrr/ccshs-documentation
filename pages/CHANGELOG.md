@@ -1,3 +1,7 @@
+### November 20, 2015
+
+- Publish version 0.2.0 of CCSHS dataset, includes EEG spectral analysis result datasets
+
 ### October 1, 2015
 
 - Publish version 0.1.0 of CCSHS dataset
