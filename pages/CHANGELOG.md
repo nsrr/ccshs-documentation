@@ -1,5 +1,6 @@
 ### November 20, 2015
 
+- Add EEG spectral analysis documentation
 - Publish version 0.2.0 of CCSHS dataset, includes EEG spectral analysis result datasets
 
 ### October 1, 2015
