@@ -8,7 +8,7 @@ CCSHS had three (3) longitudinal visits. The most recent visit, TREC, took place
 
 When citing this dataset please use:
 
-1. Redline, S., et al. "Cleveland Children's Sleep and Health Study." National Sleep Research Resource. Web. http://sleepdata.org/datasets/ccshs.
+1. Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep*. Advance online publication. pii: sp-00021-15
 
 ## Dataset Download
 

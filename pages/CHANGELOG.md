@@ -1,3 +1,7 @@
+### April 18, 2016
+
+- Update citations for users of the dataset
+
 ### November 20, 2015
 
 - Add EEG spectral analysis documentation
