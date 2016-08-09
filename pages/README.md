@@ -4,15 +4,6 @@ The Cleveland Children's Sleep and Health Study (CCSHS) is one of the largest p
 
 CCSHS had three (3) longitudinal visits. The most recent visit, Transdisciplinary Research on Energetics and Cancer (TREC), took place between 2006 and 2010. Data from the TREC visit have been posted first because this visit included full, in-lab polysomnography.
 
-## Citation
-
-When citing this dataset please use:
-
-1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
-2. [Rosen, C. L., Larkin, E. K., Kirchner, H. L., Emancipator, J. L., Bivins, S. F., Surovec, S. A., Martin, R. J., & Redline, S. (2003). Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity. *The Journal of pediatrics, 4,* 383–389.](http://www.ncbi.nlm.nih.gov/pubmed/12712055/)
-3. [Spilsbury, J. C., Storfer-Isser, A., Drotar, D., Rosen, C. L., Kirchner, H. L., & Redline, S. (2005). Effects of the home environment on school-aged children's sleep. *Sleep, 11,* 1419–1427.](http://www.ncbi.nlm.nih.gov/pubmed/16335483/)
-4. [Hibbs, A. M., Storfer-Isser, A., Rosen, C., Ievers-Landis, C. E., Taveras, E. M., & Redline, S. (2013). Advanced sleep phase in adolescents born preterm. *Behavioral sleep medicine, 5,* 412–424.](http://www.ncbi.nlm.nih.gov/pubmed/24283662/)
-
 ## Dataset Download
 
 <a href=":files_path:/datasets" class="btn btn-success btn-lg">Download Full Dataset</a> 282 KB
@@ -30,3 +21,12 @@ As part of the NSRR's effort to explore the CCSHS data in more detail, EEG spect
 ## Recent Changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
+
+## Citation
+
+When citing this dataset please use:
+
+1. [Dean, D. A., Goldberger, A. L., Mueller, R., Kim, M., Rueschman, M., Mobley, D., Sahoo, S. S., Jayapandian, C. P., Cui, L., Morrical, M. G., Surovec, S., Zhang, G. Q., & Redline, S. (2016). Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource. *Sleep, 5,* 1151–1164](http://www.ncbi.nlm.nih.gov/pubmed/27070134)
+2. [Rosen, C. L., Larkin, E. K., Kirchner, H. L., Emancipator, J. L., Bivins, S. F., Surovec, S. A., Martin, R. J., & Redline, S. (2003). Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity. *The Journal of pediatrics, 4,* 383–389.](http://www.ncbi.nlm.nih.gov/pubmed/12712055/)
+3. [Spilsbury, J. C., Storfer-Isser, A., Drotar, D., Rosen, C. L., Kirchner, H. L., & Redline, S. (2005). Effects of the home environment on school-aged children's sleep. *Sleep, 11,* 1419–1427.](http://www.ncbi.nlm.nih.gov/pubmed/16335483/)
+4. [Hibbs, A. M., Storfer-Isser, A., Rosen, C., Ievers-Landis, C. E., Taveras, E. M., & Redline, S. (2013). Advanced sleep phase in adolescents born preterm. *Behavioral sleep medicine, 5,* 412–424.](http://www.ncbi.nlm.nih.gov/pubmed/24283662/)
