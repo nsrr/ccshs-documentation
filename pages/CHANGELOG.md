@@ -1,3 +1,7 @@
+### June 9, 2017
+
+- Add XML notes to PSG introduction
+
 ### April 19, 2017
 
 - Add polysomongraphy introduction
