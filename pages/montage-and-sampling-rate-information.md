@@ -3,7 +3,7 @@
 The settings below represent the standards set at the beginning of the project. There may be a small proportion of studies and signals that do not match these standards exactly. Please review the settings at the individual sleep study level as you proceed with any analyses.
 
 |  Channel            |   Channel Derivation  |  Sampling Rate (Hz)  |  Hardware Filters (Hz)  |              Sensor Type                 |
-|:-------------------:|:---------------------:|:--------------------:|:-----------------------:|:----------------------------------------:|
+|:--------------------|:----------------------|:---------------------|:------------------------|:-----------------------------------------|
 | CZ (Common Ground)  |                       |                      |                         | EEG-Gold Cup Electrodes             |
 | Ref*                |                       |                      |                         | EEG-Gold Cup Electrodes             |
 | C3                  | C3-A2                 | EEG-128              | EEG-HP-0.15             | EEG-Gold Cup Electrodes                       |
@@ -35,4 +35,4 @@ The settings below represent the standards set at the beginning of the project. 
 | Light               |                       | Light-512 or 1024    |                         |              |
 | HRate               |                       | HRate-512 or 1024    |                         |               |
 
-* (middle of the forehead between the nasion and the start of the hairline)
+\* (middle of the forehead between the nasion and the start of the hairline)
