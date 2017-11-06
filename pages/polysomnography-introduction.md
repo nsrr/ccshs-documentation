@@ -5,6 +5,7 @@ The polysomnography recording (Compumedics E-series; Compumedics, Abbotsford, Au
 Notes:
 
 - [CCSHS TREC Visit PSG Lab Visit Manual](:files_path:/documentation?f=CCSHS_TREC_Visit_PSG_Lab_Visit_Manual.pdf)
+- [CCSHS Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 
 ## Signal and annotation files
 

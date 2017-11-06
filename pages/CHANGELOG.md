@@ -1,3 +1,7 @@
+### November 6, 2017
+
+- Add montage/sampling rate information
+
 ### June 9, 2017
 
 - Add XML notes to PSG introduction
