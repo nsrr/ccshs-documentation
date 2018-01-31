@@ -1,6 +1,6 @@
 # About
 
-The Cleveland Children's Sleep and Health Study (CCSHS) is one of the largest population-based pediatric cohorts studied with objective sleep studies, and probably one with the largest minority representation. The cohort includes 907 children, studied at ages 8-11 years with in-home sleep studies, acoustic reflectometry, anthropometry, spirometry, blood pressure (BP), and neuropschology (NP) and behavioral assessments. The cohort is a stratified random sample of full-term (FT) and preterm (PT) children, born between 1988-1993, identified from the birth records of 3 Cleveland area hospitals.
+The Cleveland Children's Sleep and Health Study (CCSHS) is one of the largest population-based pediatric cohorts studied with objective sleep studies, and probably one with the largest minority representation. The cohort includes 907 children, studied at ages 8-11 years with in-home sleep studies, acoustic reflectometry, anthropometry, spirometry, blood pressure (BP), and neuropsychology (NP) and behavioral assessments. The cohort is a stratified random sample of full-term (FT) and preterm (PT) children, born between 1988-1993, identified from the birth records of 3 Cleveland area hospitals.
 
 CCSHS had three (3) longitudinal visits. The most recent visit, Transdisciplinary Research on Energetics and Cancer (TREC), took place between 2006 and 2010. Data from the TREC visit have been posted first because this visit included full, in-lab polysomnography.
 
