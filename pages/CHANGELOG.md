@@ -1,3 +1,7 @@
+### December 28, 2018
+
+- Add note about hypopnea event tags to PSG introduction
+
 ### November 6, 2017
 
 - Add montage/sampling rate information
