@@ -18,10 +18,6 @@ CCSHS had three (3) longitudinal visits. The most recent visit, Transdisciplinar
 
 - [CCSHS Montage and Sampling Rate Information](:pages_path:/montage-and-sampling-rate-information.md)
 
-## EEG spectral analysis
-
-As part of the NSRR's effort to explore the CCSHS data in more detail, EEG spectral analysis was performed. Read more about the [methods, validation, and results for the NSRR EEG spectral analysis efforts](:pages_path:/eeg-spectral-analysis.md). There are [two summary datasets available](:files_path:/datasets/eeg-spectral-analysis) and the [included variables can be browsed here](https://www.sleepdata.org/datasets/ccshs/variables?folder=Spectral+Analysis).
-
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
