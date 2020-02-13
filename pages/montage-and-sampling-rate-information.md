@@ -19,7 +19,7 @@ The settings below represent the standards set at the beginning of the project. 
 | Thorax                | THOR EFFORT | THOR EFFORT | -       | THOR EFFORT-32     | THOR EFFORT-0.05      | Thor and Abdo Effort- Compumedics Summit IP RIP                      |
 | Sum                   | SUM         | SUM         | -       | SUM-32             | SUM-0.05              | Thor and Abdo Effort- Compumedics Summit IP RIP                      |
 | SpO2                  | SpO2        | SpO2        | -       | SpO2-1             | -                     | SpO2-Nonin model 320                                                 |
-| Thermistor            | AIRFLOW     | AIRFLOW     | -       | AIRFLOW-32         | AIRFLOW-0.05          | Airflow-Compumedics Triple Thermistor/Protec nasal–oral thermocouple |
+| Airflow            | AIRFLOW     | AIRFLOW     | -       | AIRFLOW-32         | AIRFLOW-0.05          | Airflow-Compumedics Triple Thermistor/Protec nasal–oral thermocouple |
 | Snore                 | SNORE       | SNORE       | -       | SNORE-256          | SNORE-0.05            |                                                                      |
 | Nasal Pressure        | NASAL PRES  | NASAL PRES  | -       | NASAL PRES-64      | NASAL PRES-0.05       | NASAL PRES- nasal cannula pressure transducer                        |
 | Left Leg EMG          | LEFT LEG1   | LEFT LEG1   | Fpz     | Leg EMG-256        | Leg EMG-0.15          | Leg EMG-Piezo or Gold Cup Electrodes                                 |
