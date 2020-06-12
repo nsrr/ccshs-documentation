@@ -4,6 +4,18 @@ The Cleveland Children's Sleep and Health Study (CCSHS) is one of the largest p
 
 CCSHS had three (3) longitudinal visits. The most recent visit, Transdisciplinary Research on Energetics and Cancer (TREC), took place between 2006 and 2010. Data from the TREC visit have been posted first because this visit included full, in-lab polysomnography.
 
+## Citation and acknowledgement
+
+When using this dataset, please cite the following:
+
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Rosen CL, Larkin EK, Kirchner HL, Emancipator JL, Bivins SF, Surovec SA, Martin RJ, Redline S. Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity. J Pediatr. 2003 Apr;142(4):383-9. doi: 10.1067/mpd.2003.28. PMID: 12712055.](https://pubmed.ncbi.nlm.nih.gov/12712055/)
+
+Please include the following text in the Acknowledgements:
+
+> The Cleveland Children's Sleep and Health Study was supported by grants from the National Institutes of Health (RO1HL60957, K23 HL04426, RO1 NR02707, M01 Rrmpd0380-39). The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, RFP 75N92019R002).
+
 ## Data overview
 
 **[/datasets](:files_path:/datasets)** ([introduction](:pages_path:/dataset-introduction.md)) <br/> Core data from Cleveland Children's Sleep and Health Study.
@@ -21,13 +33,3 @@ CCSHS had three (3) longitudinal visits. The most recent visit, Transdisciplinar
 ## Recent changes
 
 - Find a complete list of changes in the [CHANGELOG.md](:pages_path:/CHANGELOG.md)
-
-## Citation
-
-When citing this dataset please use:
-
-1. Dean DA 2nd, Goldberger AL, Mueller R, Kim M, Rueschman M, Mobley D, Sahoo SS, Jayapandian CP, Cui L, Morrical MG, Surovec S, Zhang GQ, Redline S. [**Scaling Up Scientific Discovery in Sleep Medicine: The National Sleep Research Resource.**](https://www.ncbi.nlm.nih.gov/pubmed/27070134) Sleep. 2016 May 1;39(5):1151-64. doi: 10.5665/sleep.5774. Review. PubMed PMID: 27070134; PubMed Central PMCID: PMC4835314.
-2. Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. [**The National Sleep Research Resource: towards a sleep data commons.**](https://www.ncbi.nlm.nih.gov/pubmed/29860441) J Am Med Inform Assoc. 2018 May 31. doi: 10.1093/jamia/ocy064. [Epub ahead of print] PubMed PMID: 29860441.
-3. Rosen CL, Larkin EK, Kirchner HL, Emancipator JL, Bivins SF, Surovec SA, Martin RJ, Redline S. [**Prevalence and risk factors for sleep-disordered breathing in 8- to 11-year-old children: association with race and prematurity.**](http://www.ncbi.nlm.nih.gov/pubmed/12712055) J Pediatr. 2003 Apr;142(4):383-9. PubMed PMID: 12712055.
-4. Spilsbury JC, Storfer-Isser A, Drotar D, Rosen CL, Kirchner HL, Redline S. [**Effects of the home environment on school-aged children's sleep.**](http://www.ncbi.nlm.nih.gov/pubmed/16335483) Sleep. 2005 Nov;28(11):1419-27. PubMed PMID: 16335483.
-5. Hibbs AM, Storfer-Isser A, Rosen C, Ievers-Landis CE, Taveras EM, Redline S. [**Advanced sleep phase in adolescents born preterm.**](http://www.ncbi.nlm.nih.gov/pubmed/24283662) Behav Sleep Med. 2014 Sep 3;12(5):412-24. doi: 10.1080/15402002.2013.825838. Epub 2013 Nov 27. PubMed PMID: 24283662; PubMed Central PMCID: PMC4035471.
